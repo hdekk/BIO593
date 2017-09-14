@@ -1,0 +1,9 @@
+name: "bio593-website"
+output_dir: "."
+navbar:
+  title: "BIO 593"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Week 1"
+      href: week1.html
