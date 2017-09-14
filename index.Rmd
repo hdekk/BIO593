@@ -1,5 +1,9 @@
 ---
-title: "BIO 593"
+title: "BIO 593 - Fall 2017"
 ---
 
-Hello, World!
+*R Programming Seminar*
+Instructors:
+Rachel Schwartz, Biology, rsschwartz@uri.edu
+Harrison Dekker, Library, hdekker@uri.edu
+Jeff Hollister, EPA/Coastal Institure, jhollist@uri.edu
